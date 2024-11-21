@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .font-satoshi {
+    font-family: 'Satoshi', sans-serif;
+  }
+}
